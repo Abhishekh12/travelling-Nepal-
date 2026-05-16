@@ -28,7 +28,7 @@ The project was built entirely from scratch using core web technologies, with a 
 ## 📸 Screenshots
 
 > Homepage — Live video background of Pokhara
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](homepage.png)
 
 > *(Add more screenshots of your other pages here)*
 
